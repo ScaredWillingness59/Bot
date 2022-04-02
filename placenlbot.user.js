@@ -37,7 +37,7 @@ if (window.top !== window.self) {
     }, false);
 
 }
-//Updated color palette, made place for more in the future expansions.
+//Updated color palette, made place for more in the future.
 const COLOR_MAPPINGS = {
 	'#BE0089': 1,//New Color: Dark Red 
 	'#FF4500': 2,
