@@ -43,30 +43,30 @@ const COLOR_MAPPINGS = {
 	'#FF4500': 2, //Red
 	'#FFA800': 3, //Orange
 	'#FFD635': 4, //Yellow
-	//'#------': 5,
+   	'#FFF8B8': 5,
 	'#00A368': 6, //dark green
 	'#00CC78': 7, //New Color: Green
 	'#7EED56': 8, //Lime
 	'#01746f': 9, //New Color: Dark Teal 
 	'#009EAA': 10, //New Color: Teal 
-	//'#------': 11, 
+    	'#00CCC0': 11,
 	'#2450A4': 12, //Dark Blue
 	'#3690EA': 13, //Blue
 	'#51E9F4': 14, //SkyBlue
 	'#493AC1':15, //New Color: Indigo 
 	'#6A5CFF':16, //New Color: Periwinkle
-	//'#------':17,
+    	'#94B3FF': 17,
 	'#811E9F': 18, //Purple
 	'#B44AC0': 19, //Light purple
-	//'#------':20,
-	//'#------':21,
+    	'#E4ABFF': 20,
+    	'#DE107F': 21,
 	'#FF3881':22, //New Color: Pink
 	'#FF99AA': 23, //Pink
 	'#6D482F':24, //New Color: Dark Brown
 	'#9C6926': 25, //Brown
-	//'#------':26,
+    	'#FFB470': 26,
 	'#000000': 27, //Black
-	//'#------':28,
+    	'#515252': 28,
 	'#898D90': 29, //Dark grey
 	'#D4D7D9': 30, //Gay
 	'#FFFFFF': 31 //White
