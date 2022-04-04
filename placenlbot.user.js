@@ -10,8 +10,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @require	     https://cdn.jsdelivr.net/npm/toastify-js
 // @resource     TOASTIFY_CSS https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css
-// @updateURL    https://github.com/DMonitor/Bot/raw/master/placenlbot.user.js
-// @downloadURL  https://github.com/DMonitor/Bot/raw/master/placenlbot.user.js
+// @updateURL    https://github.com/ScaredWillingness59/Bot/raw/master/placenlbot.user.js
+// @downloadURL  https://github.com/ScaredWillingness59/Bot/raw/master/placenlbot.user.js
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // ==/UserScript==
@@ -141,7 +141,7 @@ async function attemptPlace() {
 
 function updateOrders() {
     console.warn("updating orders");
-	fetch('https://raw.githubusercontent.com/DMonitor/Bot/master/orders.json').then(async (response) => {
+	fetch('https://raw.githubusercontent.com/ScaredWillingness59/Bot/master/orders.json').then(async (response) => {
 		if (!response.ok) return console.warn('Unable to pick up orders! (non-ok status code)');
 		const data = await response.json();
 
