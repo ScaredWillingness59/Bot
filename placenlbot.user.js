@@ -40,36 +40,36 @@ if (window.top !== window.self) {
 //Updated color palette, made place for more in the future.
 const COLOR_MAPPINGS = {
 	'#BE0089': 1,//New Color: Dark Red 
-	'#FF4500': 2,
-	'#FFA800': 3,
-	'#FFD635': 4,
+	'#FF4500': 2, //Red
+	'#FFA800': 3, //Orange
+	'#FFD635': 4, //Yellow
 	//'#------': 5,
-	'#00A368': 6,
-	'#00CC78': 7,//New Color: Green
-	'#7EED56': 8,
+	'#00A368': 6, //dark green
+	'#00CC78': 7, //New Color: Green
+	'#7EED56': 8, //Lime
 	'#01746f': 9, //New Color: Dark Teal 
 	'#009EAA': 10, //New Color: Teal 
 	//'#------': 11, 
-	'#2450A4': 12,
-	'#3690EA': 13,
-	'#51E9F4': 14,
+	'#2450A4': 12, //Dark Blue
+	'#3690EA': 13, //Blue
+	'#51E9F4': 14, //SkyBlue
 	'#493AC1':15, //New Color: Indigo 
 	'#6A5CFF':16, //New Color: Periwinkle
 	//'#------':17,
-	'#811E9F': 18,
-	'#B44AC0': 19,
+	'#811E9F': 18, //Purple
+	'#B44AC0': 19, //Light purple
 	//'#------':20,
 	//'#------':21,
 	'#FF3881':22, //New Color: Pink
-	'#FF99AA': 23,
+	'#FF99AA': 23, //Pink
 	'#6D482F':24, //New Color: Dark Brown
-	'#9C6926': 25,
+	'#9C6926': 25, //Brown
 	//'#------':26,
-	'#000000': 27,
+	'#000000': 27, //Black
 	//'#------':28,
-	'#898D90': 29,
-	'#D4D7D9': 30,
-	'#FFFFFF': 31
+	'#898D90': 29, //Dark grey
+	'#D4D7D9': 30, //Gay
+	'#FFFFFF': 31 //White
 };
 
 (async function () {
