@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Furbot
+// @name         Amibot
 // @namespace    https://github.com/PlaceNL/Bot
 // @version      4
 // @description  De bot voor PlaceNL!
-// @author       NoahvdAa
+// @author       NoahvdAa modified by Lolrace
 // @match        https://www.reddit.com/r/place/*
 // @match        https://new.reddit.com/r/place/*
 // @match        https://hot-potato.reddit.com/embed*
